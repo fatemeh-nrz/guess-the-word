@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(16, 86, 74);
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+    width: 16rem;
+    margin: 5px;
+}
+h1{
+   margin-left: 500px;
+}
+button{
+    margin: 10px;
+}
